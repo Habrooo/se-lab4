@@ -1,0 +1,3 @@
+# T8: ALL succeeds if at least one torpedo is fired
+GT4500,10,1.0,10,0
+TORPEDO,ALL  # primary fails, secondary succeeds
