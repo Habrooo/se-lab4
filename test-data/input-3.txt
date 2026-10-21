@@ -1,0 +1,4 @@
+# T3: SINGLE fires the other store if the next one is empty
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # primary fires
+TORPEDO,SINGLE  # secondary empty -> primary fires again

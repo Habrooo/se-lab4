@@ -1,0 +1,3 @@
+# T1: SINGLE fires the primary store first
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary fires (never fails)
